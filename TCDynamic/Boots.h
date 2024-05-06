@@ -22,3 +22,4 @@ namespace TC {
 		TCDYNAMIC_API std::string get_res() override;
 	};
 }
+//kfdf
